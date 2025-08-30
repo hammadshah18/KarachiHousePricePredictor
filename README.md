@@ -1,6 +1,6 @@
 [![askpython.com/python-mod...](https://images.openai.com/thumbnails/url/pUc3B3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JLqmM8IwszqgoiwjN9SzMToqPSPUJzijLcM7ID8wJNsk3qMgJKAl1T8n0tSxKT0zxLkt29HYNN_ELDVQrBgBi-itI)](https://www.askpython.com/python-modules/machine-learning-model-streamlit-house-price-prediction-gui?utm_source=chatgpt.com)
 
-Certainly! Here's a comprehensive README.md template tailored for your Karachi House Price Predictor project. This template is designed to be informative and suitable for both your GitHub repository and your deployed Streamlit app.
+
 
 ---
 
