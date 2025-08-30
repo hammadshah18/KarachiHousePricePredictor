@@ -6,7 +6,6 @@
 
 # Karachi House Price Predictor
 
-![Karachi House Price Predictor](https://github.com/hammadshah18/KarachiHousePricePredictor/raw/main/bg.jpg)
 
 ## 📌 Overview
 
